@@ -1,0 +1,9 @@
+
+Michael (M, birthday=1946-12-17)
+Teresa (F, birthday=1949-04-13)
+       Andrew (M, birthday=1972-01-26)
+       Caroline (F, birthday=1973-12-10)
+
+Andrew 
+Claire (F, birthday=1972-06-12)
+       Elouise (F, birthday=2004-11-09)

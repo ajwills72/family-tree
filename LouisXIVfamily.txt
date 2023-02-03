@@ -4,7 +4,7 @@
 Louis XIV (M, birthday=1638-09-05, deathday=1715-09-01)
 Marie-Thérèse d'Autriche (F)
 # Indented lines after the union represent children
-	Louis de France (id=Louis1661, M, birthday=1661-11-01, deathday=1711-04-14)
+  	Louis de France (id=Louis1661, M, birthday=1661-11-01, deathday=1711-04-14)
 	Marie-Thérèse\nde France (F, surname=la Petite Madame, birthday=1667, deathday=1672)
 	Philippe-Charles\nde France (M, surname=Duc d'Anjou, birthday=1668-08-05)
 
